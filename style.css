@@ -1,0 +1,59 @@
+body {
+	background-color: rgb(245,195,194);
+	color: rgb(0,0,0);
+	}
+
+h1 {
+color: purple;
+font-family: 'Dancing Script', cursive;
+font-size: 35px;
+text-shadow: 1px 1px 2px purple;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+}
+
+body {
+	background-image: url(images/background.jpg)
+}
+
+body {
+	font-family: Arial;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 1.8
+}
+
+a {
+	color: purple;
+}
+
+div {
+	margin: 30px 15px;
+	padding: 10px 5px;
+	box-shadow: 3px 3px 4px purple; 
+	width: 700px;
+}
+
+@media (max-width: 500px) {
+
+}
+
+/* Custom design with class*/
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+display: inline;
+padding: 10px;
+}
+
+.list-inline i {
+	font-size: 20px;
+}
+
